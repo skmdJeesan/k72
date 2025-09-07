@@ -1,12 +1,31 @@
-# React + Vite
+# K72.ca
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A compact, motion-first clone of K72.ca** — rebuilt to explore performance-friendly animation patterns using React, Tailwind CSS, Locomotive scroll, gsap and scrollTrigger. For learning and portfolio use only (not the official site).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live demo
 
-## Expanding the ESLint configuration
+Live demo: [Open live demo](https://k72-website-yr7r.onrender.com/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Repo
+
+Repo: [Source code on GitHub](https://github.com/skmdJeesan/k72)
+
+---
+
+## Tech
+
+* React
+* Tailwind CSS
+* GSAP/scrollTrigger
+* Locomotive Scroll
+* Vite / CRA (adjust scripts to your setup)
+
+---
+
+*This project is an educational/portfolio clone — not the official Ochi site.*
+
+## Contact
+skmdjeesan@gmail.com
+
